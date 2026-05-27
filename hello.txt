@@ -1,6 +1,10 @@
 Hello World!
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello Lyq！
 =======
 Hello ZJJ!
+>>>>>>> origin/list
+=======
+Hello Lyq&ZJJ！
 >>>>>>> origin/list
